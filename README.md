@@ -9227,4 +9227,13 @@ Framework : React-JS, Tailwind
   - **Location:** Phnom Penh, Cambodia
   - **Bio:** 🎓 Computer Science @ Paragon IU | Front-End focused developer | Specialized in responsive UI Design, advanced JavaScript (ES6+), and RESTful API consumption.
   - [GitHub Profile](https://github.com/Hunlean)
-  
+
+
+
+## Pich Chanthorn
+
+[<img src="https://avatars.githubusercontent.com/pichchanthorn" width="100" style="border-radius: 2.5px;">](https://github.com/pichchanthorn)
+
+- **Location:** Cambodia
+- **Bio:** IT Student | Web Developer | Founder & CEO of PCTN
+- [GitHub Profile](https://github.com/pichchanthorn)
